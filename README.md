@@ -1,3 +1,3 @@
-# LegacyArchitecturyTemplateMod-Forge
+# LegacyArchitecturyForgeMixin
 
-Example Mod for setting up Legacy Architectury mods for Forge.
+FabricMixin in Forge 1.14.x or below version. MixinBootstrap modify fork.
